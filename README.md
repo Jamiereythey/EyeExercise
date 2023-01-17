@@ -1,6 +1,6 @@
 # Eye Exercise
 
-Demonstrating knowledge of Javascript animation as it relates to the actions of an on-screen cursor. Move the cursor around the screen to change the tracking movement of the eyes.
+Module 8 exercise demonstrating knowledge of Javascript animation as it relates to the actions of an on-screen cursor. Move the cursor around the screen to change the tracking movement of the eyes.
 
 ## How to Use
 
