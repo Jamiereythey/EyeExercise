@@ -6,6 +6,10 @@ Module 8 exercise demonstrating knowledge of Javascript animation as it relates 
 
 Move your cursor around the eyes on the screen to initiate the eyes "tracking" the movement of the cursor.
 
+## Roadmap of Future Improvements
+
+Looking to add some fun styling to make the eye the actual Eye of Sauron. How far I'll actually get with this remains to be seen. :D
+
 ## MIT License Info
 
 Copyright (c) 2020 John Williams
